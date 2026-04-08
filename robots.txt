@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap Location
-Sitemap: https://yourwebsite.com/sitemap.xml
+Sitemap: https://yakchewguide.github.io/why-pet-brands-choose-a-reliable-yak-chew-manufacturer/sitemap.xml
 
 # Google Bot
 User-agent: Googlebot
